@@ -1,22 +1,22 @@
 # IMAGE RESIZER
 
-## Description
+## Descrição
 
-This is a simple script to resize an image with NodeJS. It will create a directory to the outputs (resized-images), clone the image, resize it with the specified width, so it can keep the proportions, and place it in the directory
+Este é um script simples para redimensionar uma imagem com NodeJS. Ele criará um diretório para as saídas (resized-images), clonará a imagem, redimensionará com a largura especificada, para que possa manter as proporções, e a colocará no diretório.
 
-## How to use
+## Como usar
 
-1. Clone the repository
-2. Install the dependencies with `npm install`
-3. Run the script with `node resize <imagePath> <width1>, <width2>, ...`
-4. The resized images will be in the `resized-images` directory
+1. Clone o repositório
+2. Instale as dependências com `npm install`
+3. Execute o script com `node resize <caminhoDaImagem> <largura1>, <largura2>, ...`
+4. As imagens redimensionadas estarão no diretório `resized-images`
 
-## Example
+## Exemplo
 
-`node resize ./images/image.jpg 200, 500, 1000`
+`node resize ./images/imagem.jpg 200, 500, 1000`
 
-## Dependencies
+## Dependências
 
 - [sharp](https://www.npmjs.com/package/sharp)
 
-Have fun! :smile:
+Divirta-se! :smile:
