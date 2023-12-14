@@ -19,8 +19,6 @@ This is a simple script to resize an image with NodeJS. It will create a directo
 
 - [sharp](https://www.npmjs.com/package/sharp)
 
-### Portuguese Version
-
-- [Versão em Português (BR)](https://github.com/dougaraujo/image-resizer/tree/ptBR)
+[Versão em Português (BR)](https://github.com/dougaraujo/image-resizer/tree/ptBR)
 
 Have fun! :smile:
