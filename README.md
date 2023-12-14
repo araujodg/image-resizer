@@ -21,6 +21,6 @@ Este é um script simples para redimensionar uma imagem com NodeJS. Ele criará 
 
 ### Versão em Inglês
 
-- [English Version](https://github.com/dougaraujo/image-resizer/tree/ptBR)
+- [English Version](https://github.com/dougaraujo/image-resizer/)
 
 Divirta-se! :smile:
