@@ -19,4 +19,8 @@ Este é um script simples para redimensionar uma imagem com NodeJS. Ele criará 
 
 - [sharp](https://www.npmjs.com/package/sharp)
 
+### Versão em Inglês
+
+- [English Version](https://github.com/dougaraujo/image-resizer/tree/ptBR)
+
 Divirta-se! :smile:
